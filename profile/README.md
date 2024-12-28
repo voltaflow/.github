@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to Voltaflow GitHub 🌟
 
-![Voltaflow Logo](https://via.placeholder.com/300x100?text=Voltaflow+Logo)
+![Voltaflow Logo](logo.png)
 
 **Voltaflow** is your destination for innovation, collaboration, and transformative technology. Our mission is to empower developers and organizations to build impactful solutions that shape the future.
 
